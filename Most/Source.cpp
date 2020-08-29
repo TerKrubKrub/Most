@@ -20,5 +20,5 @@ int main()
 		printf("%d", max);
 		return 0;
 	}
-	return 0;
+	else return 0;
 }
